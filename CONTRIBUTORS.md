@@ -1,4 +1,21 @@
-GHP
-Masha
-Andrew
+Merge remote-tracking branch 'upstream/master'
 
+# Conflicts:
+#	CONTRIBUTORS.md
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   CONTRIBUTORS.md
+#
